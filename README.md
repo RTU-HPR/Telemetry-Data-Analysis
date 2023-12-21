@@ -1,2 +1,2 @@
 # Telemetry-Data-Analysis
-Python code used to generate plots/maps from telemetry data
+Main repository for RTU HPR Team used to generate plots/maps from telemetry data
